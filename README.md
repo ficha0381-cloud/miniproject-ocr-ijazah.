@@ -93,7 +93,7 @@ Output dari program ini meliputi:
 * Tabel ringkasan hasil eksperimen.
 * File CSV hasil evaluasi.
 
-7. Cara Menjalankan Program (How to Run)
+**7. Cara Menjalankan Program (How to Run)**
 
 Program dijalankan menggunakan Google Colab. Berikut langkah-langkahnya:
 
