@@ -93,7 +93,21 @@ Output dari program ini meliputi:
 * Tabel ringkasan hasil eksperimen.
 * File CSV hasil evaluasi.
 
-## 7. Kesimpulan
+7. Cara Menjalankan Program (How to Run)
+
+Program dijalankan menggunakan Google Colab. Berikut langkah-langkahnya:
+
+Buka https://colab.research.google.com/.
+Unggah atau buka file notebook proyek dengan format .ipynb.
+Jalankan sel instalasi library dan impor seluruh library yang dibutuhkan.
+Unggah sembilan gambar dataset ketika diminta oleh program.
+Jalankan setiap sel kode secara berurutan dari awal hingga akhir.
+Periksa hasil preprocessing dan hasil pembacaan nomor ijazah menggunakan OCR.
+Jalankan evaluasi CER untuk membandingkan hasil OCR dengan nomor ijazah acuan.
+Periksa tabel ringkasan dan visualisasi hasil evaluasi.
+Unduh file CSV hasil eksperimen jika diperlukan.
+
+## 8. Kesimpulan
 
 Proyek ini menunjukkan penerapan pengolahan citra digital dan OCR untuk membantu membaca nomor ijazah pada gambar dengan kondisi kualitas yang berbeda. Metode preprocessing digunakan untuk meningkatkan keterbacaan karakter sebelum proses OCR dilakukan.
 
